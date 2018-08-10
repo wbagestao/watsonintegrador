@@ -2,7 +2,7 @@ applications:
 – path: .
 memory: 256M
 instances: 1
-domain: integradorwatson.mybluemix.net
-name: integradorwatson
-host: integradorwatson
+domain: watsonintegrador.mybluemix.net
+name: watsonintegrador
+host: watsonintegrador
 disk_quota: 256M
