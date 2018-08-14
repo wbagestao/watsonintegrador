@@ -1,5 +1,6 @@
 applications:
 – path: .
+command: npm start
 memory: 256M
 instances: 1
 domain: watsonintegrador.mybluemix.net
