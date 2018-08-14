@@ -9,10 +9,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "botbuilder": "^3.15.0",
-    "dotenv": "^2.0.0",
-    "osa-imessage": "^2.4.2",
-    "restify": "^7.2.1",
-    "watson-developer-cloud": "^2.42.0"
+    "botbuilder": ">=3.15.0",
+    "dotenv": ">=2.0.0",
+    "osa-imessage": ">=2.4.2",
+    "restify": ">=7.2.1",
+    "watson-developer-cloud": ">=2.42.0"
   }
 }
