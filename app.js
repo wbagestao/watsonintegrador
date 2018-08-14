@@ -34,7 +34,7 @@ var restify = require('restify');
 
 var builder = require('botbuilder');
 
-var Conversation = require('watson-developer-cloud/conversation/v1'); // watson sdk
+var Conversation = require('watson-developer-cloud/assistant/v1'); // watson sdk
 
 
 
